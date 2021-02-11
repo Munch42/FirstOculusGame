@@ -332,6 +332,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   BaseSpawnLocation: {fileID: 1549566989}
+  objectCollider: {fileID: 0}
 --- !u!65 &570427650
 BoxCollider:
   m_ObjectHideFlags: 0
